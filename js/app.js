@@ -89,3 +89,6 @@ catsEl.querySelectorAll(".cat-btn").forEach(btn => {
 
 // Initial render
 renderItems(ITEMS);
+
+// PWA
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");

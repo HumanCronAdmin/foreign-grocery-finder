@@ -1,0 +1,12 @@
+{
+  "name": "Foreign Grocery Finder Japan",
+  "short_name": "Grocery Finder",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#f59e0b",
+  "description": "Find where to buy hard-to-find ingredients at Japanese stores",
+  "icons": [
+    {"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
