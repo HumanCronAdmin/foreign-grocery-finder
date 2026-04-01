@@ -1,0 +1,55 @@
+GitHub探索結果: Foreign Grocery Finder
+検索日: 2026-03-31
+
+== 検索キーワードと結果 ==
+
+| キーワード | 件数 | 条件合致 |
+|---|---|---|
+| grocery finder | 10 | 0（全て10stars未満） |
+| grocery store locator | 5 | 0（全て0stars） |
+| ingredient search | 10 | 0（レシピ系のみ） |
+| food finder | 10 | 1候補（Flask依存） |
+| japan grocery / japan food store | 4 | 0（古い） |
+| store locator | 15 | 4候補（全て地図前提） |
+| searchable directory template | 0 | - |
+| product search static site | 0 | - |
+
+== 候補リポジトリ ==
+
+1. jQuery-Store-Locator-Plugin (最有力だが地図前提)
+   URL: https://github.com/bjorn2404/jQuery-Store-Locator-Plugin
+   Stars: 491 / 更新: 2025-11-18 / License: MIT
+   言語: JavaScript (jQuery + Handlebars)
+   概要: Google Maps APIベースのストアロケーター。JSON/XML/KMLデータ対応
+   判定: 地図前提のため不採用。UIパターンのみ参考
+
+2. microapps/store-locator
+   URL: https://github.com/microapps/store-locator
+   Stars: 33 / 更新: 2026-02-11 / License: MIT
+   言語: Vanilla JS
+   概要: CDN配信型ストアロケーター。3.68kb gzipped
+   判定: 地図前提のため不採用
+
+3. leaflet-store-locator
+   URL: https://github.com/reyemtm/leaflet-store-locator
+   Stars: 32 / 更新: 2025-01-20 / License: MIT
+   言語: Leaflet + jQuery
+   概要: CSVからデータ読み込み。Google Maps不要（無料）
+   判定: 地図前提のため不採用。CSV読み込みパターンは参考
+
+4. googlearchive/js-store-locator
+   URL: https://github.com/googlearchive/js-store-locator
+   Stars: 379 / 更新: 2026-03-29 / License: Apache 2.0
+   概要: Google公式ストアロケーター（アーカイブ済み）
+   判定: メンテ停止+地図前提のため不採用
+
+5. philly-food-finder
+   URL: https://github.com/hack4impact-upenn/philly-food-finder
+   Stars: 20 / 更新: 2025-11-23 / License: MIT
+   概要: Flask+地図ベースの食品リソース検索
+   判定: Flask依存のため不採用。UIの参考程度
+
+== 結論 ==
+完全一致リポなし。全候補が地図ベースのストアロケーター。
+本ツールは「食材名→チェーン店リスト」の逆引きで地図不要。
+HTML + Fuse.js + Tailwind で自作が最速・最適。

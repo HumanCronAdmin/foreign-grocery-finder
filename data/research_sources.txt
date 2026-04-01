@@ -1,0 +1,84 @@
+Foreign Grocery Finder - Data Research Sources & Findings
+Date: 2026-03-31
+Method: Web search of public blogs, expat guides, official sites, Reddit, vegan food guides
+
+== VERIFIED PRICES (with source) ==
+
+Gyomu Super:
+- Canned chickpeas: ~¥100/can (foodiejapan.com, isitveganjapan.com)
+- Canned kidney beans: ~¥100/can (isitveganjapan.com)
+- Coconut milk: ~¥250/carton (osaka.com)
+- Tahini: ~¥300/jar, Kobe Bussan brand 300g (foodiejapan.com)
+- Peanut butter: ~¥200/jar, 340g creamy/chunky (foodiejapan.com, openfoodfacts.org)
+- Hummus: ~¥250 (foodiejapan.com)
+
+Seijo Ishii:
+- Camembert mini wheel: ¥755/125g (japantoday.com - online price + postage)
+- Cheddar: described as "cheap" relative to other import cheese (gaijinpot.com)
+
+Amazon Japan:
+- Kobe Bussan Tahini 300g: ~¥1,078 (amazon.co.jp product page)
+- Sriracha 230g: ~¥600 (timeout.com - vending machine price reference)
+
+Other reference:
+- Wyke mature cheddar 200g: ¥398 at Niku no Hanamasa (japantoday.com)
+
+== KEY SOURCES (ranked by usefulness) ==
+
+Tier 1 - Detailed product-level info with prices:
+1. foodiejapan.com/vegan-gyomu-supa-haul — Gyomu Super items with prices
+2. foodiejapan.com/kaldi-vegan-haul — Kaldi items
+3. westcoasttofareast.com/2018/04/08/costco-items-every-foreigner-in-japan-needs/ — Costco essentials
+4. isitveganjapan.com/vegan-shopping/supermarkets/ — Cross-store comparison
+5. osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/ — Gyomu detail
+
+Tier 2 - Store-level availability info:
+6. japanhandbook.com/finding-international-groceries-in-japan/ — Multi-store guide
+7. japanhandbook.com/finding-a-taste-of-home-your-guide-to-costco-and-international-supermarkets-in-japan/
+8. omakase-helper.com/where-to-find-your-foreign-groceries/ — Store comparison
+9. blog.gaijinpot.com/where-to-buy-good-cheese-in-japan/ — Cheese-specific
+10. savvytokyo.com/buying-baking-ingredients-in-japan-a-beginners-guide/ — Baking supplies
+
+Tier 3 - General/partial:
+11. interacnetwork.com/top-46-hard-to-find-items-in-japan/ — Hard-to-find list
+12. vishwasjapan.com/blogs/news/indian-spices-in-japan-where-and-how-to-buy-them — Spices
+13. planmyjapan.com/don-quijote-store-japan-donki/ — Donki imported food
+14. japanbased.com/don-quijote — Donki overview
+
+== ITEMS WITH STRONGEST VERIFICATION (multiple independent sources) ==
+
+1. Chickpeas at Gyomu Super ~¥100 — 3 sources
+2. Kidney beans at Gyomu Super ~¥100 — 2 sources
+3. Peanut butter at Gyomu Super ~¥200 — 2 sources
+4. Coconut milk at Gyomu Super ~¥250 — 2 sources
+5. Tahini at Gyomu Super ~¥300 — 2 sources
+6. Cheese at Costco (cheddar/mozzarella blocks) — 3 sources
+7. Oats at Costco (steel cut, large bags) — 2 sources
+8. Tortillas at Kaldi — 2 sources
+9. Peanut butter at Costco (large jars) — 2 sources
+
+== GAPS / ITEMS NEEDING MORE VERIFICATION ==
+
+Items where evidence is thin or unverified:
+- Black beans: Only Seijo Ishii "sometimes" has them. Hard to find generally
+- Lentils: Hard to find at chain stores. Best sources are Indian grocery stores or Amazon
+- Quinoa: Confirmed at Amazon but limited physical store verification
+- Baking soda: Available but Japanese label (重曹) makes it findable at regular stores too
+- Vanilla extract: Pure extract is rare; Japan mostly sells vanilla essence
+- Chili flakes: Kaldi likely has them but specific verification is thin
+- Paprika: Kaldi has it (in harissa at minimum), standalone needs verification
+
+Stores with least data:
+- Don Quijote: General confirmation of imported food section with peanut butter, tahini, hot sauce, muesli/granola, salsa. But specific item-level data is weak
+- Seijo Ishii: Known for cheese and imported goods but specific product listings are sparse in public sources
+
+== NOTES FOR DATA FILE ==
+
+1. Prices are approximate and may vary by location/date
+2. Gyomu Super has most verified data and best prices for imported basics
+3. Kaldi strongest for spices, sauces, and specialty international items
+4. Costco best for bulk cheese, oats, peanut butter (requires membership ¥4,840/year)
+5. Seijo Ishii premium pricing but widest cheese selection
+6. Don Quijote carries some items but inconsistent across locations
+7. Amazon Japan is the reliable fallback for everything but at higher prices
+8. Product availability varies by store location — larger/urban stores carry more

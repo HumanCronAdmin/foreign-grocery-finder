@@ -1,0 +1,666 @@
+[
+  {
+    "name": "Chickpeas (canned)",
+    "alt": ["garbanzo beans", "ひよこ豆"],
+    "category": "Canned Goods",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": "~¥100",
+        "note": "400g can, cheapest option in Japan",
+        "verified": true,
+        "sources": [
+          "https://foodiejapan.com/vegan-gyomu-supa-haul",
+          "https://isitveganjapan.com/vegan-shopping/supermarkets/",
+          "https://www.osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Available, imported options",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      },
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Canned beans available including chickpeas",
+        "verified": true,
+        "sources": [
+          "https://www.omakase-helper.com/where-to-find-your-foreign-groceries/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Multiple brands: Tokyo 468 (dried, 500g), Ohsawa organic (1kg), Eden canned (425g x12)",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp/-/en/Tokyo-Dried-Chickpeas-Temperature-Storage/dp/B07DNVYG2N",
+          "https://www.amazon.co.jp/-/en/Ohsawa-Japan-Organic-Chickpeas-1kg/dp/B091KSPHYB",
+          "https://www.amazon.co.jp/-/en/Eden-Canned-Chickpeas-425-Cans/dp/B000GZU7QQ"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kidney Beans (canned)",
+    "alt": ["red kidney beans", "金時豆", "レッドキドニー"],
+    "category": "Canned Goods",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": "~¥100",
+        "note": "Large cans, same price range as chickpeas",
+        "verified": true,
+        "sources": [
+          "https://isitveganjapan.com/vegan-shopping/supermarkets/",
+          "https://www.osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Available from multiple sellers",
+        "verified": true,
+        "sources": [
+          "https://isitveganjapan.com/food-products-m-r/rice-grains-and-beans/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Black Beans (canned)",
+    "alt": ["黒豆", "ブラックビーンズ"],
+    "category": "Canned Goods",
+    "stores": [
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Sometimes carries canned black beans",
+        "verified": true,
+        "sources": [
+          "https://www.omakase-helper.com/where-to-find-your-foreign-groceries/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Available online",
+        "verified": true,
+        "sources": [
+          "https://isitveganjapan.com/food-products-m-r/rice-grains-and-beans/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lentils",
+    "alt": ["レンズ豆", "lentil"],
+    "category": "Canned Goods",
+    "stores": [
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Dried lentils available from multiple sellers",
+        "verified": true,
+        "sources": [
+          "https://isitveganjapan.com/food-products-m-r/rice-grains-and-beans/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coconut Milk",
+    "alt": ["ココナッツミルク"],
+    "category": "Canned Goods",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": "~¥250",
+        "note": "Large cartons, multiple flavors including sesame",
+        "verified": true,
+        "sources": [
+          "https://www.osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/",
+          "https://foodiejapan.com/vegan-gyomu-supa-haul"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Canned coconut milk, Thai cooking section",
+        "verified": true,
+        "sources": [
+          "https://www.asseeninjapan.com/home/kaldi-coffee-farm",
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Multiple brands including organic, cans from Indonesia",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp/-/en/b?ie=UTF8&node=10503044051"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cheddar Cheese",
+    "alt": ["チェダーチーズ"],
+    "category": "Dairy",
+    "stores": [
+      {
+        "name": "Costco Japan",
+        "price": null,
+        "note": "Bricks of real cheddar and jack cheese. Kirkland Signature brand available at lower price",
+        "verified": true,
+        "sources": [
+          "https://westcoasttofareast.com/2018/04/08/costco-items-every-foreigner-in-japan-needs/",
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      },
+      {
+        "name": "Gyomu Super",
+        "price": null,
+        "note": "European cheeses available, big selection",
+        "verified": true,
+        "sources": [
+          "https://www.osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/"
+        ]
+      },
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Imported cheddar available. Gouda and Cheddar reported as reasonably priced",
+        "verified": true,
+        "sources": [
+          "https://blog.gaijinpot.com/where-to-buy-good-cheese-in-japan/",
+          "https://japantoday.com/category/features/food/where-to-buy-good-cheese-in-japan"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Carries imported cheeses",
+        "verified": true,
+        "sources": [
+          "https://cheapnik.com/kaldi-coffee-farm/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mozzarella Cheese",
+    "alt": ["モッツァレラチーズ"],
+    "category": "Dairy",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": null,
+        "note": "Kilo bags of mozzarella available",
+        "verified": true,
+        "sources": [
+          "https://www.osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/"
+        ]
+      },
+      {
+        "name": "Costco Japan",
+        "price": null,
+        "note": "Mozzarella blocks, best unit prices for cheese",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      },
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Various cheese types including mozzarella",
+        "verified": true,
+        "sources": [
+          "https://blog.gaijinpot.com/where-to-buy-good-cheese-in-japan/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cream Cheese",
+    "alt": ["クリームチーズ"],
+    "category": "Dairy",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": null,
+        "note": "Rolls of cream cheese available",
+        "verified": true,
+        "sources": [
+          "https://www.osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/"
+        ]
+      },
+      {
+        "name": "Costco Japan",
+        "price": null,
+        "note": "Large format cream cheese available",
+        "verified": true,
+        "sources": [
+          "https://myadventureabroad.com/costco-in-japan/"
+        ]
+      },
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Cream cheese available, used in their famous premium cheesecake",
+        "verified": true,
+        "sources": [
+          "https://blog.gaijinpot.com/where-to-buy-good-cheese-in-japan/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cumin (ground)",
+    "alt": ["クミン", "cumin powder"],
+    "category": "Spices",
+    "stores": [
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Wide variety of spices available, organized by cuisine",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      },
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Cumin available in spice section",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      },
+      {
+        "name": "Gyomu Super",
+        "price": null,
+        "note": "Large packages of spices including cumin in international section",
+        "verified": true,
+        "sources": [
+          "https://vishwasjapan.com/blogs/news/indian-spices-in-japan-where-and-how-to-buy-them"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Multiple brands available",
+        "verified": true,
+        "sources": [
+          "https://vishwasjapan.com/blogs/news/indian-spices-in-japan-where-and-how-to-buy-them"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Paprika",
+    "alt": ["パプリカパウダー"],
+    "category": "Spices",
+    "stores": [
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Available as ingredient in harissa and as standalone spice",
+        "verified": true,
+        "sources": [
+          "https://foodiejapan.com/kaldi-vegan-haul",
+          "https://www.asseeninjapan.com/home/kaldi-coffee-farm"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Available from multiple sellers",
+        "verified": true,
+        "sources": [
+          "https://vishwasjapan.com/blogs/news/indian-spices-in-japan-where-and-how-to-buy-them"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chili Flakes",
+    "alt": ["唐辛子フレーク", "red pepper flakes", "crushed red pepper"],
+    "category": "Spices",
+    "stores": [
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Chili peppers and spice blends available in international sections",
+        "verified": true,
+        "sources": [
+          "https://www.asseeninjapan.com/home/kaldi-coffee-farm"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Available online",
+        "verified": true,
+        "sources": [
+          "https://vishwasjapan.com/blogs/news/indian-spices-in-japan-where-and-how-to-buy-them"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tahini",
+    "alt": ["タヒニ", "sesame paste", "練りごま"],
+    "category": "Sauces & Spreads",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": "~¥300",
+        "note": "Kobe Bussan brand, 300g jar, 100% white sesame, no additives",
+        "verified": true,
+        "sources": [
+          "https://foodiejapan.com/vegan-gyomu-supa-haul",
+          "https://www.osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/"
+        ]
+      },
+      {
+        "name": "Don Quijote",
+        "price": null,
+        "note": "Tahini stocked in Western grocery section at some locations",
+        "verified": true,
+        "sources": [
+          "https://www.planmyjapan.com/don-quijote-store-japan-donki/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": "~¥1,078",
+        "note": "Kobe Bussan TAHINI 300g, also KOSKA brand 900g and Haitoglou 300g available",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp/-/en/Kobe-Bussan-TAHINI-Sesame-Paste/dp/B087CX7FH6",
+          "https://www.amazon.co.jp/-/en/KOSKA-Sesame-Paste-Tahini-Tahin/dp/B078WTPMMN",
+          "https://www.amazon.co.jp/-/en/Haitoglou-Sesame-Paste-Tahini-Sugar/dp/B004FBJWL8"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Peanut Butter",
+    "alt": ["ピーナッツバター"],
+    "category": "Sauces & Spreads",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": "~¥200",
+        "note": "340g jar, creamy and chunky types available",
+        "verified": true,
+        "sources": [
+          "https://foodiejapan.com/vegan-gyomu-supa-haul",
+          "https://world.openfoodfacts.org/product/4942355131441/peanut-butter-creamy-gyomu-super-japan"
+        ]
+      },
+      {
+        "name": "Costco Japan",
+        "price": null,
+        "note": "Large jars available (e.g., JIF brand). Rarely found elsewhere at this size",
+        "verified": true,
+        "sources": [
+          "https://westcoasttofareast.com/2018/04/08/costco-items-every-foreigner-in-japan-needs/"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Peanut butter available",
+        "verified": true,
+        "sources": [
+          "https://www.asseeninjapan.com/home/kaldi-coffee-farm"
+        ]
+      },
+      {
+        "name": "Don Quijote",
+        "price": null,
+        "note": "Organic peanut butter stocked at many locations",
+        "verified": true,
+        "sources": [
+          "https://www.planmyjapan.com/don-quijote-store-japan-donki/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Multiple brands including Skippy",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hot Sauce (Tabasco/Sriracha)",
+    "alt": ["ホットソース", "タバスコ", "シラチャ", "chili sauce"],
+    "category": "Sauces & Spreads",
+    "stores": [
+      {
+        "name": "Costco Japan",
+        "price": null,
+        "note": "Cholula and Tabasco available. Tabasco Sriracha in 20oz bottles",
+        "verified": true,
+        "sources": [
+          "https://westcoasttofareast.com/2018/04/08/costco-items-every-foreigner-in-japan-needs/"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Salsa and hot sauces available",
+        "verified": true,
+        "sources": [
+          "https://www.asseeninjapan.com/home/kaldi-coffee-farm"
+        ]
+      },
+      {
+        "name": "Don Quijote",
+        "price": null,
+        "note": "Chilli sauce stocked in imported food section",
+        "verified": true,
+        "sources": [
+          "https://www.planmyjapan.com/don-quijote-store-japan-donki/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Huy Fong Sriracha 482g available, also Tabasco brand. Sriracha ~¥600 for 230g at vending machines",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp/-/en/Sriracha-Hot-Chili-Sauce-482/dp/B0002PSOJW",
+          "https://www.timeout.com/tokyo/news/you-can-get-sriracha-hot-sauce-from-vending-machines-in-japan-062121"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tortillas (flour/corn)",
+    "alt": ["トルティーヤ"],
+    "category": "Grains & Pasta",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": null,
+        "note": "Tortillas available in imported food section",
+        "verified": true,
+        "sources": [
+          "https://foodiejapan.com/vegan-gyomu-supa-haul"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Tortillas available alongside salsa and Mexican ingredients",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/",
+          "https://interacnetwork.com/top-46-hard-to-find-items-in-japan/"
+        ]
+      },
+      {
+        "name": "Costco Japan",
+        "price": null,
+        "note": "Large packs of tortillas, can split with friends",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      },
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Tortillas available",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oats / Oatmeal",
+    "alt": ["オーツ", "オートミール", "rolled oats", "steel cut oats"],
+    "category": "Grains & Pasta",
+    "stores": [
+      {
+        "name": "Gyomu Super",
+        "price": null,
+        "note": "Oats available for quick breakfast, affordable",
+        "verified": true,
+        "sources": [
+          "https://foodiejapan.com/vegan-gyomu-supa-haul",
+          "https://isitveganjapan.com/vegan-shopping/supermarkets/"
+        ]
+      },
+      {
+        "name": "Costco Japan",
+        "price": null,
+        "note": "Huge bags of steel cut oats at great price. Kirkland Signature brand",
+        "verified": true,
+        "sources": [
+          "https://westcoasttofareast.com/2018/04/08/costco-items-every-foreigner-in-japan-needs/"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Multiple oatmeal brands including Quaker Oats in larger boxes",
+        "verified": true,
+        "sources": [
+          "https://foodiejapan.com/kaldi-vegan-haul"
+        ]
+      },
+      {
+        "name": "Don Quijote",
+        "price": null,
+        "note": "Muesli and granola stocked",
+        "verified": true,
+        "sources": [
+          "https://www.planmyjapan.com/don-quijote-store-japan-donki/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Multiple brands available with delivery",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Quinoa",
+    "alt": ["キヌア", "キノア"],
+    "category": "Grains & Pasta",
+    "stores": [
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Available from multiple sellers, various quantities",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp"
+        ]
+      },
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Health food grains available at some locations",
+        "verified": true,
+        "sources": [
+          "https://japanhandbook.com/finding-international-groceries-in-japan/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Baking Soda",
+    "alt": ["重曹", "じゅうそう", "sodium bicarbonate"],
+    "category": "Baking",
+    "stores": [
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Food-grade baking soda available. Japanese label: 重曹 (juusou)",
+        "verified": true,
+        "sources": [
+          "https://savvytokyo.com/buying-baking-ingredients-in-japan-a-beginners-guide/",
+          "https://mykitcheninjapan.wordpress.com/2013/03/13/ingredients-in-japan-baking-powder-baking-soda-and-yeast/"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vanilla Extract",
+    "alt": ["バニラエッセンス", "バニラエキストラクト"],
+    "category": "Baking",
+    "stores": [
+      {
+        "name": "Kaldi",
+        "price": null,
+        "note": "Import baking supplies available. Note: Japan more commonly sells vanilla essence (バニラエッセンス) than pure extract",
+        "verified": true,
+        "sources": [
+          "https://savvytokyo.com/buying-baking-ingredients-in-japan-a-beginners-guide/"
+        ]
+      },
+      {
+        "name": "Seijo Ishii",
+        "price": null,
+        "note": "Baking supplies section with imported items",
+        "verified": true,
+        "sources": [
+          "https://savvytokyo.com/buying-baking-ingredients-in-japan-a-beginners-guide/"
+        ]
+      },
+      {
+        "name": "Amazon Japan",
+        "price": null,
+        "note": "Pure vanilla extract available from international sellers",
+        "verified": true,
+        "sources": [
+          "https://www.amazon.co.jp"
+        ]
+      }
+    ]
+  }
+]

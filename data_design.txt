@@ -1,0 +1,71 @@
+データ設計: Foreign Grocery Finder
+作成日: 2026-03-31
+
+== データソース（実在情報のみ・ダミー禁止） ==
+
+全国チェーン店の公式サイト・公式商品リストから収集：
+- 業務スーパー（Gyomu Super） — gyomusuper.jp 商品一覧
+- カルディ（Kaldi） — kaldi.co.jp オンラインストア
+- コストコ（Costco Japan） — costco.co.jp
+- 成城石井（Seijo Ishii） — seijoishii.co.jp
+- ドン・キホーテ（Don Quijote） — donki.com
+- Amazon Japan — amazon.co.jp（アフィリエイトリンク付き）
+
+== データ構造（data/items.json） ==
+
+[
+  {
+    "name": "Chickpeas (canned)",
+    "alt": ["garbanzo beans", "ひよこ豆"],
+    "category": "Canned Goods",
+    "stores": [
+      {"name": "Gyomu Super", "note": "400g can, ~¥100"},
+      {"name": "Kaldi", "note": "Organic option available"},
+      {"name": "Amazon Japan", "url": "(実在アフィリンク)"}
+    ]
+  }
+]
+
+フィールド説明:
+- name: 食材の英語名（メイン表示）
+- alt: 別名・日本語名（検索用。Fuse.jsの検索対象に含める）
+- category: カテゴリ（フィルタ用）
+- stores[].name: チェーン店名
+- stores[].note: 価格帯・補足情報
+- stores[].url: アフィリエイトリンク（Amazon/iHerbのみ）
+
+== MVP食材リスト（初期30〜50品目） ==
+
+Reddit頻出品目 + Interac 46品目リストから選定：
+
+Canned Goods:
+- Chickpeas (canned), Black beans, Kidney beans, Lentils (canned)
+- Coconut milk, Diced tomatoes
+
+Dairy:
+- Cheddar cheese, Mozzarella, Cream cheese, Sour cream, Butter (unsalted)
+
+Spices:
+- Cumin (ground), Paprika, Coriander, Chili flakes, Turmeric, Oregano
+
+Baking:
+- All-purpose flour, Bread flour, Baking soda, Baking powder, Vanilla extract
+
+Sauces & Spreads:
+- Tahini, Hot sauce, Peanut butter, Salsa, Hummus
+
+Grains & Pasta:
+- Quinoa, Oats (rolled), Brown rice pasta, Tortillas (flour/corn)
+
+Snacks & Other:
+- Tortilla chips, Granola, Dark chocolate chips
+
+== カテゴリ一覧 ==
+Canned Goods / Dairy / Spices / Baking / Sauces & Spreads / Grains & Pasta / Snacks & Other
+
+== データ収集手順（buildへの指示） ==
+1. 各チェーン公式サイトで食材名を検索
+2. 取扱いがある場合：店名+価格帯+備考を記録
+3. 取扱いなしの場合：その店をstoresに含めない
+4. Amazon/iHerbは商品ページURLをアフィリンク化
+5. 全データはitems.jsonに格納
