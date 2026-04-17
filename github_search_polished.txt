@@ -1,0 +1,55 @@
+GitHub Search Results: Foreign Grocery Search
+Search Date: 2026-03-31
+
+== Search keywords and results
+
+| Keywords| Number of results| Condition match
+
+| Grocery Store Finder | 10 | 0 (All under 10 Stars)
+| Grocery Store Finder | 5 | 0 (All under 0 Stars) |
+| Food Search | 10 | 0 (only recipe type)
+| Food Search｜10｜1 candidates (Flask-dependent) |
+| Food Search｜4｜0 (Old) |
+| Store search｜15｜4 candidates (all map-dependent)||
+
+
+
+== Repository
+
+1. jQuery-Store-Locator-Plugin (most promising, but assumes map)
+   URL: https://github.com/bjorn2404/jQuery-Store-Locator-Plugin
+   Star: 491 / Updated: 2025-11-18 / License: MIT
+   Language: JavaScript (jQuery + Handlebars)
+   Summary: Google Maps API based store locator.
+   Verdict: For rejection due to map assumption.
+
+2. microapps/store-locator
+   URL: https://github.com/microapps/store-locator
+   Stars: 33 / Updated: 2026-02-11 / License: MIT
+   Language Vanilla JS
+   Overview CDN-distributed store locator.
+   Verdict: Rejected due to map assumptions
+
+3. leaflet store locator
+   URL: https://github.com/reyemtm/leaflet-store-locator
+   stars: 32 / updated: 2025-01-20 / license: MITMIT
+   Language: leaflet + jQuery
+   Summary: Load data from CSV.
+   Verdict: Rejected due to map assumptions.
+
+4. googlearchive/js-store-locator
+   URL: https://github.com/googlearchive/js-store-locator
+   Star: 379 / Update: 2026-03-29 / License: Apache 2.0
+   Overview Official Google Store Locator (archived)
+   Verdict: Rejected due to maintenance outage + map assumptions
+
+5. Philly Food Finder
+   URL: https://github.com/hack4impact-upenn/philly-food-finder
+   Stars: 20 / Updated: 2025-11-23 / License: MIT
+   Overview Flask+map-based food resource finder
+   Verdict: Rejected due to Flask dependency.
+
+== Exact match repo.
+No exact match repo.
+This tool does not need a map due to "food ingredient name -> chain store list" reverse lookup.
+HTML + Fuse.js + Tailwind is the fastest and best way.

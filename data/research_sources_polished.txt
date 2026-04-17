@@ -1,0 +1,84 @@
+International Grocery Finder - Data, Research Sources and Findings
+Date: 2026-03-31
+Research MethodsGeneral blog, foreign guide, official website, Reddit, web search of vegan food guides
+
+== Prices verified (with sources) ==
+
+Gyoom Supermarket:
+- Canned chickpeas: ~¥100/can (foodiejapan.com, isitveganjapan.com)
+- Canned kidney beans: ~100 yen/can (isitveganjapan.com)
+- Coconut milk: ~250 yen/carton (osaka.com)
+- Tahini: 300 yen/jar, Kobe Bussan 300g (foodiejapan.com)
+- Peanut butter: ~200 yen/jar, 340g creamy/chunky (foodiejapan.com, openfoodfacts.org)
+- Hummus: ~Hummus: ~250 yen (foodiejapan.com)
+
+Seijo Ishii
+- Camembert Mini Wheels: 755 yen/125g (japantoday.com - online price + shipping)
+- Cheddar Cheese: Described as "cheap" compared to other imported cheeses (gaijinpot.com)
+
+Amazon Japan
+- Kobe Bussan Tahini 300g: ~1,078 yen (amazon.co.jp product page)
+- Sriracha 230g: ~600 yen (timeout.com - see vending machine prices)
+
+Other reference
+- Waikuma Cheddar 200g: 398 yen at Meat Hanamasa (japantoday.com)
+
+== Main sources (in order of usefulness)
+
+Tier 1 - Detailed product-level information, including price:
+1. foodiejapan.com/vegan-gyomu-supa-haul - Gyomu Supaul products and prices.
+2. foodiejapan.com/kaldi-vegan-haul - Kaldi products
+3. westcoasttofareast.com/2018/04/08/costco-items-every-foreigner-in-japan-needs/ - Costco essentials
+4. isitveganjapan.com/vegan-shopping/supermarkets/ - store-to-store comparison
+5. osaka.com/businesses/gyomu-super-imported-food-and-super-sizes-at-supersaver-prices/ - Fish Dreams Details
+
+Tier 2 - Store-level inventory information
+6. japanhandbook.com/finding-international-groceries-in-japan/ - Multi-Store Guide
+7. japanhandbook.com/finding-a-taste-of-home-your-guide-to-costco-and-international-supermarkets-in-japan/ - Costco and International Supermarkets In Japan.
+8. omakase-helper.com/where-to-find-your-foreign-groceries/ - Store Comparison
+9. blog.gaijinpot.com/where-to-buy-good-cheese-in-japan/ - Cheese-specific information.
+10. savvytokyo.com/Buying-baking-ingredients-in-japan-a-beginners-guide/ - About baking ingredients.
+
+Tier 3 - General/Partial
+11. interacnetwork.com/top-46-hard-to-find-items-in-japan/ - hard-to-find list
+12. vishwasjapan.com/blogs/news/indian-spices-in-japan-where-and-how-to-buy-them - Spices.
+13. planmyjapan.com/don-quijote-store-japan-donki/ - Donki Imported Foods
+14. japanbased.com/don-quijote - Donki Overview
+
+== Most confirmatory (multiple independent sources)
+
+1. chickpeas from Gyeoum Supermarket, 100 yen - from 3 sources
+2. Kidney beans at Gyomu Super - 100 yen - 2 sources
+3. Peanut Butter at Gyomu Super - ¥200 - 2 sources
+4. coconut milk at Gyomu Super ~ ¥250 - 2
+5. tahini at Gyomu Super - 300 yen - 2 sources.
+6. Costco cheese (cheddar/mozzarella block) - 3 sources.
+7. Costco oats (steel cut, large bag) - 2 bags
+8. "Cardi" tortillas - 2 types
+9. Costco peanut butter (large jar) - 2 sources
+
+== Blank period/items requiring verification
+
+Items with little or no evidence or verification
+- Black beans: Only Seijo Ishii has them "occasionally". Generally difficult to obtain.
+- Lentils: Hard to find in chain stores. Indian grocery stores or Amazon are best.
+- Quinoa: verified on Amazon, but limited availability in actual stores.
+- Baking soda: available, but due to the Japanese label (baking soda), also available in general stores.
+- Vanilla Essence: Pure essence is rare.
+- Chili flakes: likely to be found in Cardi, but concrete verification is thin.
+- Paprika: Available in Cardi (at least in harissa).
+
+Stores with the least data
+- Don Quijote: Don Quijote: roughly verified imported food department with peanut butter, tahini, hot sauce, muesli/granola, and salsa. However, specific item-level data is weak
+- Seijo Ishii: known for cheese and imported products, but specific product listings are sparse in public documents
+
+== Notes on data files
+
+1. Prices are approximate and may vary by location/date.
+2. Gyoem Supermarket has the most verified data and is the best price for imported basics.
+3. Cardi is the best for spices, sauces, and foreign specialty products.
+4. Costco is best for bulk purchases of cheese, oats, and peanut butter.
+Seijo Ishii: Premium prices, but the widest selection of cheese.
+Don Quijote carries some products, but the selection varies from store to store.
+Amazon Japan is reliable but expensive.
+8. Different stores have different assortments.
